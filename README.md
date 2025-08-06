@@ -18,7 +18,11 @@ to-do-app
 ├── style.css 
 ├── script.js 
 
-Setup Instructions:-
-1. Clone this repository or [Download as ZIP](https://github.com/your-username/your-repo-name/archive/refs/heads/main.zip)
-2. Open the folder in VS Code or any editor.
-3. Open `index.html` in your browser.
+How to Run the Project:-
+1. Clone the repository:
+   git clone https://github.com/saisri2501/todo-list.git
+
+2. Open the folder and double-click index.html
+                    or
+Right-click index.html and choose Open with Live Server (in VS Code).
+
